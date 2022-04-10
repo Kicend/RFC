@@ -3,6 +3,10 @@ Relic Files Converter
 
 Prosty skrypt do konwersji plików smf na wav
 
+## Wymagania
+Potrzebujesz interpretera Pythona w wersji 3.7+:
+https://www.python.org/downloads/
+
 ## Użycie
 1. Włącz terminal w folderze, w którym jest skrypt
 2. Wydaj polecenie ./RFC.py <ścieżka źródłowa> <ścieżka docelowa>
