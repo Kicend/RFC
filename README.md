@@ -15,7 +15,7 @@ https://www.python.org/downloads/
 3. Cierpliwie poczekaj na zakończenie zadania
 4. Ciesz się ulubionymi tekstami z gry:)
 
-### Zgłaszanie błędów i inne rzecz
+### Zgłaszanie błędów i inne rzeczy
 Proszę o zgłaszanie błędów, propozycji zmian w programie.
 W tym momencie skrypt jest prostacki, więc proszę nie bić za wszelkie niedociągnięcia, ale wcześniej
 był zrobiony tylko z myślą o mnie. Także jestem otwarty na wszelkie propozycje zmian.
